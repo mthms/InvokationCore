@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokationCore", "InvokationCore\InvokationCore.csproj", "{712C52A0-A376-4B6C-9E61-FD1E4D46938F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712C52A0-A376-4B6C-9E61-FD1E4D46938F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712C52A0-A376-4B6C-9E61-FD1E4D46938F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712C52A0-A376-4B6C-9E61-FD1E4D46938F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712C52A0-A376-4B6C-9E61-FD1E4D46938F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8705A1-091C-4DE1-A48E-1D57D3F2B245}
+	EndGlobalSection
+EndGlobal

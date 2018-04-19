@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SeleniumBrowsers.InvokationCore</id>
+    <version>1.0.0</version>
+    <title>Selenium Invokation Core</title>
+    <authors>mthms</authors>
+    <owners>mthms</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This Package is designed and written for open source usage whenever the QA engineer wants to test on any browser that is supported by seleniumHQ libraries.</description>
+    <releaseNotes>None.</releaseNotes>
+    <summary>Package that has all of the functions for invoking any selenium supported browser.</summary>
+    <copyright>Copyright © 2018 - Mohamed Sharaf, github.com/mthms</copyright>
+    <tags>Selenium Automation Testing QA Quality Engineering UITesting UI Mobile Appium iOS Android</tags>
+    <projectUrl>https://github.com/mthms/Software-Automation-Testing/tree/master/SeleniumBrowsers.InvokationCore</projectUrl>
+    <language>false</language>
+    <developmentDependency>false</developmentDependency>
+  </metadata>
+  <files>
+    <file src="bin\Debug\**" target="lib"></file>
+  </files>
+</package>
